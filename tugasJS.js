@@ -23,3 +23,15 @@ umur += 5;
 let kalimat = 'Hello ';
 
 kalimat += 'World';
+
+//Fungsi Javascript//
+
+//Mendeklarasikan Fungsi
+function namaSaya() {
+    return "namaSaya";
+  }
+
+//Parameter & Argument
+function luasPersegi(s) {
+    return s * s;
+  }
