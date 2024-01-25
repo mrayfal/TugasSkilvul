@@ -1,10 +1,8 @@
-//Tugas Javascript Dasar 1 Array
+// Variabel Dan Tipe Data
 
-//Mendeklarasikan Array
-let hewan = ["monyet"];
+//Mendeklarasikan Variable
+let animal;
 
-//Mengubah Data Atau Element Pada Array
-let warna = ["hitam", "merah", "ungu", "kuning"];
-
-warna[3] = "biru";
-
+//Tipe Data Javascript
+let namaSaya = "Rehan";
+const umurSaya = 10 ;
